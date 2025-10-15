@@ -1,0 +1,12 @@
+Weatherstack:
+  outputs:
+    weather:
+      dbname: db_weather
+      host: db
+      pass: '5112003'
+      port: 5432
+      schema: weather
+      threads: 4
+      type: postgres
+      user: zodiac
+  target: weather

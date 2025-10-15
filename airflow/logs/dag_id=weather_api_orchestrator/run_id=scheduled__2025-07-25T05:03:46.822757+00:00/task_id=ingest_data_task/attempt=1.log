@@ -1,0 +1,9 @@
+{"timestamp":"2025-07-25T05:03:53.137933","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-25T05:03:53.138404","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/orchestrator.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T05:03:53.940377","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-07-25T05:03:54.110515Z","level":"info","event":"Data fetched successfully.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T05:03:54.110646Z","level":"info","event":"{'success': False, 'error': {'code': 101, 'type': 'invalid_access_key', 'info': 'You have not supplied a valid API Access Key. [Technical Support: support@apilayer.com]'}}","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T05:03:54.110731Z","level":"info","event":"Error connecting to the database: connection to server at \"db\" (172.25.0.2), port 5432 failed: FATAL:  password authentication failed for user \"None\"","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T05:03:54.110788Z","level":"info","event":"","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T05:03:54.110837Z","level":"info","event":"An error occurred: connection to server at \"db\" (172.25.0.2), port 5432 failed: FATAL:  password authentication failed for user \"None\"","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T05:03:54.110883Z","level":"info","event":"","chan":"stdout","logger":"task"}

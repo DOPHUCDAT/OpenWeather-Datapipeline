@@ -1,0 +1,5 @@
+{"timestamp":"2025-07-25T09:16:05.104080","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-25T09:16:05.105424","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/orchestrator.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T09:16:06.273749","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-07-25T09:16:06.821566Z","level":"info","event":"Data fetched successfully.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T09:16:06.821756Z","level":"info","event":"Database connection closed.","chan":"stdout","logger":"task"}

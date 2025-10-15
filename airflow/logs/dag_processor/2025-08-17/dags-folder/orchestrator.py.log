@@ -1,0 +1,1 @@
+{"timestamp":"2025-08-17T20:24:04.180367","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/orchestrator.py","logger":"airflow.models.dagbag.DagBag"}

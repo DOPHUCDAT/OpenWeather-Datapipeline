@@ -1,0 +1,6 @@
+{"timestamp":"2025-08-18T03:12:55.236608","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-08-18T03:12:55.237133","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/orchestrator.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-18T03:12:56.200014Z","level":"info","event":"Data fetched successfully.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-18T03:12:56.215761Z","level":"info","event":"An error occurred: name 'cursror' is not defined","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-18T03:12:56.216038Z","level":"info","event":"Database connection closed.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-18T03:12:56.215927","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

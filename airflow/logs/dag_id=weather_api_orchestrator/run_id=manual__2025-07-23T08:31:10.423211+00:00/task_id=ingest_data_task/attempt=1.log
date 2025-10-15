@@ -1,0 +1,4 @@
+{"timestamp":"2025-07-23T08:31:11.846698","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-23T08:31:11.847442","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/orchestrator.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-23T08:31:11.864200","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-07-23T08:31:12.299156Z","level":"info","event":"An error occurred: fetch_data() missing 2 required positional arguments: 'self' and 'api_url'","chan":"stdout","logger":"task"}

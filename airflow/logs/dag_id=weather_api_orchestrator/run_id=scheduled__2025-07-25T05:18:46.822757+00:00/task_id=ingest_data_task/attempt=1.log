@@ -1,0 +1,8 @@
+{"timestamp":"2025-07-25T05:18:47.141932","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-25T05:18:47.142535","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/orchestrator.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T05:18:47.772908Z","level":"info","event":"Data fetched successfully.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T05:18:47.777784Z","level":"info","event":"Error connecting to the database: connection to server at \"db\" (172.25.0.2), port 5432 failed: FATAL:  password authentication failed for user \"None\"","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T05:18:47.778017Z","level":"info","event":"","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T05:18:47.778127Z","level":"info","event":"An error occurred: connection to server at \"db\" (172.25.0.2), port 5432 failed: FATAL:  password authentication failed for user \"None\"","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T05:18:47.778218Z","level":"info","event":"","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-25T05:18:47.778524","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
